@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andhavarapu Santhosh",
+      "email": "asanthosh2503@gmail.com",
+      "passwordHash": "$2a$10$yGh85a4bdp8Lz9Sm4o4wl.Fv4ySnlStYdG97smK8Jmg7lcR.HijtS",
+      "createdAt": "2026-05-20T16:32:46.106Z"
+    }
+  ],
+  "tasks": [],
+  "counters": {
+    "userId": 1,
+    "taskId": 1
+  }
+}
